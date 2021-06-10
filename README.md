@@ -37,7 +37,7 @@ if (user.age > 30) {
 }
 ```
 
-Хорошо :wink:  :
+Хорошо :wink: :
 ```
 const MAX_AGE = 30;
 let daysSinceLastVisit = 10;
